@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<learning>
+    <modelId>coinAngle</modelId>
+    <class>es.udc.gii.mdb.jeaf.JEAFLearningAlgorithm</class>
+    <config>coincollector/EAFcoinAngle-Config.xml</config>
+    <samples>1</samples>
+    <populationFactor>2.0</populationFactor>
+    <learningMemory>
+        <capacity>10</capacity>
+        <file>coincollector/coinAngle-Memory.txt</file>
+    </learningMemory>
+</learning>

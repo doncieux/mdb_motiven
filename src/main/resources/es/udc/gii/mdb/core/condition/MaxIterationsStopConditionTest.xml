@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<stopCondition>
+    <class>es.udc.gii.mdb.core.condition.MaxIterationsStopCondition</class>
+    <maxIterations>2000</maxIterations>
+</stopCondition>

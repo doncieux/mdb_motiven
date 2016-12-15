@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<stopCondition>
+    <class>es.udc.gii.mdb.core.condition.AndCompositeConditionStopTest</class>
+    <condition>
+        <class>es.udc.gii.mdb.core.condition.MaxIterationsStopCondition</class>
+        <maxIterations>2000</maxIterations>
+    </condition>
+    <condition>
+        <class>es.udc.gii.mdb.core.condition.MaxIterationsStopCondition</class>
+        <maxIterations>500</maxIterations>
+    </condition>
+    <condition>
+        <class>es.udc.gii.mdb.core.condition.MaxIterationsStopCondition</class>
+        <maxIterations>1000</maxIterations>
+    </condition>    
+</stopCondition>
