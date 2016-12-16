@@ -10,8 +10,7 @@ $ mvn install:install-file -Dfile=lib/anji-1.0.jar -DgroupId=com -DartifactId=an
 ```
 
 ## Description
-This project is a very light version of the old MDB with the ongoing MotivEn research, based on correlations.
-
+This implementation is based on creating “certainty areas” that represent both areas with a concrete goal (or subgoal) and the subgoal of the next area. These areas can expand and shrink dynamically and individually for any of the dimensions of the space state (or perceptions). To determine which points of the state space will constitute the certainty area, the correlation of perceptual state traces will be studied. Perceptions for which a large correlation is found are used to determine which points should belong to the certainty area and participate in the evaluation of candidate actions (as a value function) to be chosen to reach the goal. 
 
 ## USAGE
 
