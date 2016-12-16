@@ -18,7 +18,9 @@ This project is a very light version of the old MDB with the ongoing MotivEn res
 Important:
 Due to an error in anji-neat library, it is mandatory create a folder to use neat, what is set up in the neat properties file (it is already created in this program, see config folder). 
 
-The MDB is though as an independent cognitive architecture to be run with any robot or simulator. For this, to run the MDB, it is needed to run the simulator first, so the MDB will connect to it by TCP/IP. After running the rimulator or robot, the MDB can be executed:
+The MDB is thought as an independent cognitive architecture to be run with any robot or simulator. For this, to run the MDB, it is needed to run the simulator first, so the MDB will connect to it by TCP/IP. After running the rimulator or robot, the MDB can be executed. As this is an ongoing unstable version of MDB, some code makes reference to the configuration of the current test experiment so, for now, it only will work with the simulator provided in [Collect a ball java simulator](https://github.com/robotsthatdream/java_collectaball_sim).
+
+To run MDB:
 
 ```sh
 $ java -jar MDBCore-full config/MDB-Config.xml
