@@ -20,7 +20,7 @@ import org.apache.commons.math.random.MersenneTwister;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class MDBRandom {
     

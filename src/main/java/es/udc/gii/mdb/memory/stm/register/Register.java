@@ -14,7 +14,7 @@ import java.util.List;
  * Intermediate interface, that represents the registers that the models use
  * in the learning processes.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public interface Register extends Storageable {
 

@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 public class OrCompositeConstraint extends CompositeConstraint {
 

@@ -9,7 +9,7 @@ package es.udc.gii.mdb.perception.constraint;
  *
  * This class implements a "less than" constraint.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class LTConstraint extends DoubleConstraint {
 

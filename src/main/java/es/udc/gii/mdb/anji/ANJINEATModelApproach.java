@@ -47,7 +47,7 @@ import org.jgap.InvalidConfigurationException;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class ANJINEATModelApproach extends RepresentationApproach {
 

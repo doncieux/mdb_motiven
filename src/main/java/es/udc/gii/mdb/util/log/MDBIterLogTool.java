@@ -15,7 +15,7 @@ import java.util.Observable;
  * the learning process for a model. It shows the fitness of the model and the
  * mean fitness of the population as well.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class MDBIterLogTool extends MDBLogTool {
 

@@ -21,7 +21,7 @@ import java.util.NoSuchElementException;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class ArrayIterator<T> implements Iterator<T> {
 

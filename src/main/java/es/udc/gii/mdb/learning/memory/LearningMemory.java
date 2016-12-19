@@ -38,7 +38,7 @@ import org.apache.commons.configuration.Configuration;
  * evolutivo o un conjunto de redes que se entrenan con backpropagation, un 
  * listado de modelos de regresión, etc.
  * 
- * @author pilar
+ * @author GII
  */
 public class LearningMemory implements Configurable {
 

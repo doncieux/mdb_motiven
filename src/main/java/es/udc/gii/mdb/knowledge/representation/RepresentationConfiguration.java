@@ -2,7 +2,7 @@ package es.udc.gii.mdb.knowledge.representation;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 
 

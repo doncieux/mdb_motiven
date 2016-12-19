@@ -2,7 +2,7 @@ package es.udc.gii.mdb.motivation;
 
 /**
  *
- * @author Rodri
+ * @author GII
  * @param <E> represents a context needed to know if a goal has been reached
  */
 

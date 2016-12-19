@@ -6,7 +6,7 @@ import org.apache.commons.configuration.Configuration;
 
 /**
  *
- * @author Rodri
+ * @author GII
  */
 public interface Certainty extends Configurable {
 

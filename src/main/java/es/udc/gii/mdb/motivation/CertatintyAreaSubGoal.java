@@ -5,7 +5,7 @@ import es.udc.gii.mdb.perception.ActionPerceptionPair;
 
 /**
  *
- * @author Rodri
+ * @author GII
  */
 public class CertatintyAreaSubGoal implements MotivationGoal<ActionPerceptionPair> {
 

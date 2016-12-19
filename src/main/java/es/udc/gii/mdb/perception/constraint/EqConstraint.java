@@ -9,7 +9,7 @@ package es.udc.gii.mdb.perception.constraint;
  *
  * This class implements an equality constraint.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class EqConstraint extends DoubleConstraint {
 

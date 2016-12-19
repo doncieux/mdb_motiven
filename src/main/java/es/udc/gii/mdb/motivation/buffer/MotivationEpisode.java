@@ -5,7 +5,7 @@ import es.udc.gii.mdb.perception.ActionPerceptionPair;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 
 

@@ -13,7 +13,7 @@ import es.udc.gii.mdb.perception.ActionPerceptionPairMap.APPairModule;
  * Abstract class representing a generic constraint based in double values. Used
  * when filtering an {@link ActionPerceptionPair} based on a value of a concrete field.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public abstract class DoubleConstraint extends Constraint {
 

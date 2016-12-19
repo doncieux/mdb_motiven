@@ -27,7 +27,7 @@ import org.apache.commons.configuration.Configuration;
 /**
  * Through this class we can access quickly to a reference of the fields of an {@link ActionPerceptionPair}
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class ActionPerceptionPairMap {
 

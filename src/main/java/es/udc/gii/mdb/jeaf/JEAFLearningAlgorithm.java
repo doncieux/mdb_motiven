@@ -38,7 +38,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class JEAFLearningAlgorithm extends PopulationLearningAlgorithm {
 

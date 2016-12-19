@@ -12,7 +12,7 @@ import java.util.Observable;
  * This {@link LogTool} is created to observe a model, and thus the evolutionary
  * processes.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public abstract class EvolutionLogTool extends LogTool {
 

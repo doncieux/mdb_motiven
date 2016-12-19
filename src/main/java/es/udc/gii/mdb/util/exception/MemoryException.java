@@ -23,7 +23,7 @@ import java.io.PrintWriter;
  * Exception thrown when an error is encountered storing or retrieving values
  * from a memory
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class MemoryException extends Exception {
 

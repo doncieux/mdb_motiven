@@ -8,7 +8,7 @@ package es.udc.gii.mdb.robot;
 /**
  * A ComponentValue encapsulates both raw value and normalized value
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class ComponentValue {
 

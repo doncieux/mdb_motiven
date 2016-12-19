@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  *
- * @author Rodri
+ * @author GII
  */
 public class VariableCorrelation {
 

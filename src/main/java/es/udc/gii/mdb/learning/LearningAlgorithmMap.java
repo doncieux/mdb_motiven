@@ -29,7 +29,7 @@ import org.apache.commons.configuration.Configuration;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class LearningAlgorithmMap {
 

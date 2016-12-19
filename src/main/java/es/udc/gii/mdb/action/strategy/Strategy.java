@@ -13,7 +13,7 @@ import java.util.List;
  *
  * Abstract class representing a generic strategy.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public abstract class Strategy implements Predictable {
 

@@ -13,7 +13,7 @@ import java.util.List;
  * Realization of the interface {@link Register} to represent those registers
  * managed by the satisfaction model.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class SatisfactionModelRegister implements Register {
 

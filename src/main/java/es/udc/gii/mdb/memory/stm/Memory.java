@@ -22,7 +22,7 @@ import org.apache.commons.configuration.Configuration;
  * method pattern, thus we can add several types of memories, extending this class
  * and setting different strategies.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public abstract class Memory extends Observable implements Configurable, Cloneable{
 
@@ -165,7 +165,7 @@ public abstract class Memory extends Observable implements Configurable, Cloneab
         return model;
     }
 
-    //WHATIS -> Es de un log, dice Rodrigo fuera
+    //TO REMOVE
     public abstract int isReplaced();
     
     

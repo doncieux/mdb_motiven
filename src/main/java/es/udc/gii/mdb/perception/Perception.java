@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * Class that represents a Perception of the robot.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class Perception implements Predictable {
     

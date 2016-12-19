@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author borja
+ * @author GII
  */
 public class MDBSingleObjective extends SerialEvaluationStrategy {
 

@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  *
- * @author Rodri
+ * @author GII
  */
 public class RestrictionGoal implements MotivationGoal<ActionPerceptionPair> {
 

@@ -1,13 +1,12 @@
 package es.udc.gii.mdb.motivation;
 
 import es.udc.gii.mdb.perception.ActionPerceptionPair;
-import es.udc.gii.mdb.perception.constraint.Constraint;
 import es.udc.gii.mdb.robot.Sensor;
 import es.udc.gii.mdb.robot.SensorMap;
 
 /**
  *
- * @author Rodri
+ * @author GII
  */
 public class SensorGoal implements MotivationGoal<ActionPerceptionPair> {
 

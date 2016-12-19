@@ -14,7 +14,7 @@ import java.util.Observable;
  * execution of the main loop. It's an abstract class and will concreted in
  * several types of logs.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public abstract class MDBLogTool extends LogTool {
 

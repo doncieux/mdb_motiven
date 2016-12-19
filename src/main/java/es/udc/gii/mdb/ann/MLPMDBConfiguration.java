@@ -5,7 +5,7 @@ import es.udc.gii.mdb.knowledge.representation.RepresentationConfiguration;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 
 

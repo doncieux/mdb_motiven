@@ -15,7 +15,7 @@ import java.util.List;
  * Relization of the interface {@link Register}, in this case representing the registers
  * used by the two types of "input models": world models and internal models.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class InputModelRegister implements Register {
 

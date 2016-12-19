@@ -15,7 +15,7 @@ import java.util.Observable;
  * each of the outputs predicted by the model, calculating it against the
  * samples in memory at the moment of evolving the model.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class AbsErrorLogTool extends EvolutionLogTool {
 

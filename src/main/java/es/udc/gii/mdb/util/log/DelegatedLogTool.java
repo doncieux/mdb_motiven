@@ -22,7 +22,7 @@ import java.util.Observable;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 public abstract class DelegatedLogTool extends EvolutionLogTool {
 

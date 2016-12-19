@@ -2,7 +2,7 @@ package es.udc.gii.mdb.knowledge.data;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 public class ModelData {
 

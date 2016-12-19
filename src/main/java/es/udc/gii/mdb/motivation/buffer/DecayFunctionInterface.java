@@ -4,7 +4,7 @@ import es.udc.gii.mdb.util.config.Configurable;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 
 

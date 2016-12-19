@@ -27,13 +27,12 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.apache.commons.configuration.Configuration;
 import org.jgap.Chromosome;
-import org.jgap.ChromosomeMaterial;
 import org.jgap.Genotype;
 import org.slf4j.LoggerFactory;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class ANJINEATLearningAlgorithm extends PopulationLearningAlgorithm {
 

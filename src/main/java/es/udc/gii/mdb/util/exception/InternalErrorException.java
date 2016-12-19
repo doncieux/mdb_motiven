@@ -23,7 +23,7 @@ import java.io.PrintWriter;
 /**
  * Exception thrown when a severe error is encountered
  * 
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class InternalErrorException extends Exception {
 

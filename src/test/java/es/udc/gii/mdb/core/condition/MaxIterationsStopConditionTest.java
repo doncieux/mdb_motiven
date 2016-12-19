@@ -21,7 +21,7 @@ import org.apache.commons.configuration.XMLConfiguration;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class MaxIterationsStopConditionTest extends TestCase {
     

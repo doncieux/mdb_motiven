@@ -22,7 +22,7 @@ import java.io.PrintWriter;
 /**
  * Exception thrown when an error is encountered at model level
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class ModelException extends Exception {
 

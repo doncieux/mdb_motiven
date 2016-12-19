@@ -15,7 +15,7 @@ import java.util.Observable;
  * This {@link LogTool} provides the possibility of monitoring the content of
  * the {@link es.udc.gii.gsa.mdb.memory.Memory} of a {@link Model} at each moment.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class MemoryLogTool extends EvolutionLogTool {
 

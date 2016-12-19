@@ -23,7 +23,7 @@ import java.util.Arrays;
  * Estos elementos están formados por una lista de parámetros y un valor double
  * que representa su utilidad, fitness o como queramos llamarle.
  * 
- * @author pilar
+ * @author GII
  */
 public class LearningMemoryElement {
    

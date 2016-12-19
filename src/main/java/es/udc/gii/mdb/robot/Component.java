@@ -32,7 +32,7 @@ import org.apache.commons.configuration.Configuration;
  * two ranges of values: the normal or 'raw' one (the values directly obtained or passed
  * to the component) and the normalized one (useful when working with ANN, for example)
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public abstract class Component implements Configurable {
 

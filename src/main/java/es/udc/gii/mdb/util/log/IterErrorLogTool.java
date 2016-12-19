@@ -12,7 +12,7 @@ import java.util.Observable;
  * Using this {@link LogTool} we can retrieve information about the absolute errors
  * in the prediction of each sample stored in memory at the moment of obtaining the model.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class IterErrorLogTool extends EvolutionLogTool {
 

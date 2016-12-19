@@ -16,7 +16,7 @@ import java.util.List;
  *
  * Represents a simple strategy. It stores actions into a {@link List}.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class PlainStrategy extends Strategy {
     private List<Action> actions;

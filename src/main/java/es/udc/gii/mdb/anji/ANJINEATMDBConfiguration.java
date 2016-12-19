@@ -1,14 +1,13 @@
 package es.udc.gii.mdb.anji;
 
 import com.anji.util.Properties;
-import es.udc.gii.mdb.ann.*;
 import es.udc.gii.mdb.knowledge.representation.RepresentationConfiguration;
 import java.util.Objects;
 
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 
 

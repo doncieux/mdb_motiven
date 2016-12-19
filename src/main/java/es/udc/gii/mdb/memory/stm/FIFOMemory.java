@@ -10,7 +10,7 @@ package es.udc.gii.mdb.memory.stm;
  * Concrete class extending {@link Memory}. It implements a FIFO replacement
  * strategy.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class FIFOMemory extends Memory {
 

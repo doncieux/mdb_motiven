@@ -16,7 +16,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Extension of the class {@link Component} representing a sensor of the robot
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class Sensor extends Component {
 

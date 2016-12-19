@@ -10,7 +10,7 @@ package es.udc.gii.mdb.memory.stm;
  * Marker interface, intended to gather all the different elements that we may
  * need to store in a {@link Memory}.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public interface Storageable {
 

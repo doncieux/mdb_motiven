@@ -44,7 +44,7 @@ import org.slf4j.Logger;
 /**
  * Configures and performs an ANJI evolutionary run.
  *
- * @author Pilar
+ * @author GII
  */
 public class ANJINEATEvolver implements Configurable {
 

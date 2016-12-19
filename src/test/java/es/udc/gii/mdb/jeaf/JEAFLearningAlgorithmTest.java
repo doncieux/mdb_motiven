@@ -25,7 +25,7 @@ import org.apache.commons.configuration.XMLConfiguration;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class JEAFLearningAlgorithmTest extends TestCase {
 

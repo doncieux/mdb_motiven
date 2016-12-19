@@ -17,7 +17,7 @@ import java.util.List;
  * each one associated to a concrete {@link Actuator}. An action can be made up of
  * as many {@link ComponentValue}s as desired.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class Action {
     

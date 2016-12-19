@@ -14,7 +14,7 @@ import java.util.Observable;
  * This {@link LogTool} can be used to follow the improvement of the models,
  * and the enhancement of their predictions, comparing them with the real samples.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class OutputsLogTool extends EvolutionLogTool {
 

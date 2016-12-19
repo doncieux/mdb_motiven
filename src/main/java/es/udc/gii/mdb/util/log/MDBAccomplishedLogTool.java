@@ -28,7 +28,7 @@ import org.apache.commons.configuration.Configuration;
  * the iterations when the task is accomplished. This way we can appreciate how as time goes by, the
  * iterations written in the log file get closer.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class MDBAccomplishedLogTool extends MDBLogTool {
     protected static final double THRESHOLD = 1.0e-6;

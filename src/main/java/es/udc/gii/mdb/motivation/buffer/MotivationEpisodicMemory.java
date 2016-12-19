@@ -11,7 +11,7 @@ import org.apache.commons.configuration.Configuration;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 public abstract class MotivationEpisodicMemory extends Memory {
 

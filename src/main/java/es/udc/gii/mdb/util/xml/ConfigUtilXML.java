@@ -8,7 +8,7 @@ package es.udc.gii.mdb.util.xml;
  * This class stores the names of the tags used in configuration files, in order
  * to provide an unique access point to them to easily modify.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class ConfigUtilXML {
 

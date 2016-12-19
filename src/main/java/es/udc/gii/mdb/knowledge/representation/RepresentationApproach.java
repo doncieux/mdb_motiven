@@ -30,7 +30,7 @@ import java.util.List;
  * Each specific approaximation has its own methods to calculate the outputs. The classes that implement this interface should implement the method to calculate
  * them an also methods to create and configure the specific method.
  *
- * @author pilar
+ * @author GII
  */
 public abstract class RepresentationApproach implements Configurable, Cloneable {
 

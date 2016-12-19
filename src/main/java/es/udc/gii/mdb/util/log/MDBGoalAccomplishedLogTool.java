@@ -29,7 +29,7 @@ import org.apache.commons.configuration.Configuration;
  * way we can appreciate how as time goes by, the iterations written in the log
  * file get closer.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class MDBGoalAccomplishedLogTool extends MDBLogTool {
 

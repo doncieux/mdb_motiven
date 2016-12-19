@@ -18,7 +18,7 @@ import java.util.List;
  * Es necesario para crear los modelos de comportamientos a imagen de los 
  * modelos de mundo y de satisfaccion, ya que estos predecian solo Perception
  * y ahora necesitamos calcular Strategy's
- * @author Mastropiero
+ * @author GII
  */
 public interface Predictable {
 

@@ -26,7 +26,7 @@ import es.udc.gii.mdb.util.config.Configurable;
  * Interface that specifies the methods to be implemented by any implementation
  * of a strategy chooser.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public interface StrategyChooser extends Configurable {
 

@@ -5,7 +5,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 public class MLPConfiguration {
 

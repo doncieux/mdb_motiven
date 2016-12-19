@@ -14,7 +14,7 @@ import org.apache.commons.configuration.XMLConfiguration;
  *
  * This class provides an object representation of a configuration file in XML.
  *
- * @author Borja Santos-Diez Vazquez
+ * @author GII
  */
 public class MDBConfiguration extends XMLConfiguration {
     

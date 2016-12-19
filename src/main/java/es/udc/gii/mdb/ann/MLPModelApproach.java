@@ -33,7 +33,7 @@ import org.apache.commons.configuration.Configuration;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class MLPModelApproach extends RepresentationApproach {
 

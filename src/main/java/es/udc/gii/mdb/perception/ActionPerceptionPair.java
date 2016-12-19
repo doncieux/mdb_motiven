@@ -20,7 +20,7 @@ import es.udc.gii.mdb.action.strategy.Strategy;
 /**
  * The class representing an ActionPerceptionPair.
  *
- * @author borja
+ * @author GII
  */
 public class ActionPerceptionPair  {
 
